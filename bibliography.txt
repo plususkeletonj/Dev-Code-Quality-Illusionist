@@ -1,0 +1,2 @@
+# Work Log
+Integrate accessibility checks into the test suite
